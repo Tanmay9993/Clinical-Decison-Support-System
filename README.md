@@ -33,7 +33,7 @@ Modern healthcare systems often suffer from data fragmentation, making it hard f
 
 ---
 
-### 🔹 Output Example 1:
+### 🔹 Output Example 3:
 <img width="1511" alt="UI-Output-3" src="https://github.com/user-attachments/assets/19bc2a94-81af-473c-8b6b-9ee5ed1a110b" />
 
 ---
